@@ -8,7 +8,7 @@
 
 ## What this program does
 
-In this program we have created the ability to 
+In this program we have prepared, analyzed and vizualised time series data from MercadoLibre to determine seasonality of Google traffic search patterns, how the company's stock price relates to the search traffic, and then use fbProphet model to forecast hourly search engine traffic.
 
 ---
 
@@ -74,24 +74,6 @@ For more information about Google Colab, click [here](https://colab.research.goo
 
 For more information about FbProphet, click [here](https://facebook.github.io/prophet/)
 
-
----
-
-
-## Usage
-
-
-The following images can be seen when viewing this project:
-
-![Bar Graph of Housing Unit Prices per Year in San Francisco](https://github.com/EmilyBertani/Challenge_6/blob/main/Bar_graph.png)
-
-![Line Graph of Sale Price per Square Foot and Gross Rent Comparisons](https://github.com/EmilyBertani/Challenge_6/blob/main/Line_graph.png)
-
-![Line Graph of Sale Price per Square Foot and Gross Rent Comparisons by Neighborood](https://github.com/EmilyBertani/Challenge_6/blob/main/Line_graph_widget_1.png)
-
-![Line Graph of Sale Price per Square Foot and Gross Rent Comparisons by Neighborood](https://github.com/EmilyBertani/Challenge_6/blob/main/Line_graph_widget_2.png)
-
-![Map View of San Francisco Comparing Sale Price per Square Foot and Gross Rent](https://github.com/EmilyBertani/Challenge_6/blob/main/Map_view.png)
 
 ---
 

@@ -37,17 +37,17 @@ Pandas Library including hvplot
 
 First, to run in Google Colab, input the following code:
 
-`from IPython.display import clear_output
-try:
-  !pip install pystan
-  !pip install prophet
-  !pip install hvplot
-  !pip install holoviews
-except:
-  print("Error installing libraries")
-finally:
-  clear_output()
-  print('Libraries successfully installed')`
+`from IPython.display import clear_output`
+`try:`
+  `!pip install pystan`
+  `!pip install prophet`
+  `!pip install hvplot`
+  `!pip install holoviews`
+`except:`
+  `print("Error installing libraries")`
+`finally:`
+  `clear_output()`
+  `print('Libraries successfully installed')`
   
 Then make sure to run the appropriate imports:
 
